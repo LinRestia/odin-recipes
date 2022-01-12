@@ -1,23 +1,23 @@
-main-head {
+.main-head {
     text-align: center;
     background-color:#5555ff;
     color: #bb99f4;
 }
-main-ingred {
+.main-ingred {
     text-align: center;
     background-color: #aa3322;
     color: #22ff99;
 }
-ingred-baked {
+#ingred-baked {
     text-align: center;
     font-style: bold;
 }
-main-step {
+.main-step {
     text-align: center;
     background-color: #992244;
     color: #0055ee;
 }
-step-baked {
+#step-baked {
     text-align: center;
     font-style: bold;
 }
