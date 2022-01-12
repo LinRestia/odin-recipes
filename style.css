@@ -4,8 +4,10 @@
     color: #bb99f4;
 }
 img {
-    height: 100 px;
-    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 200px;
+    width: 200px;
 }
 .main-desc {
     text-align: center;
