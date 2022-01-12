@@ -3,6 +3,10 @@
     background-color:#5555ff;
     color: #bb99f4;
 }
+img {
+    height: auto;
+    width: auto;
+}
 #baked-img {
     margin-left: auto;
     margin-right: auto;
