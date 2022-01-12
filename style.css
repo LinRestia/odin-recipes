@@ -4,8 +4,8 @@
     color: #bb99f4;
 }
 img {
-    height: auto;
-    width: auto;
+    height: 100 px;
+    width: 100px;
 }
 .main-desc {
     text-align: center;
