@@ -4,7 +4,8 @@
     color: #bb99f4;
 }
 #baked-img {
-    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
 }
 .main-desc {
     text-align: center;
