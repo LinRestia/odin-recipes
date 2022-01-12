@@ -1,8 +1,3 @@
-#test {
-    text-align: center;
-    background-color: #ff3389;
-    color:#99ff55;
-}
 .main-head {
     text-align: center;
     background-color:#5555ff;
@@ -20,7 +15,7 @@
 .main-step {
     text-align: center;
     background-color: #992244;
-    color: #0055ee;
+    color: #ffffff;
 }
 #step-baked {
     text-align: center;
