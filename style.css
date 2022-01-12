@@ -3,6 +3,9 @@
     background-color:#5555ff;
     color: #bb99f4;
 }
+#baked-img {
+    text-align: center;
+}
 .main-desc {
     text-align: center;
     font-style: bold;
