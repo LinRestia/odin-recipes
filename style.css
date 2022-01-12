@@ -7,7 +7,8 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 90%;
+    width: 50%;
+    height: auto;
 }
 .main-desc {
     text-align: center;
